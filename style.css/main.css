@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+}
+#img-div{
+    width: 100%;
+    height: 100vh;
+    padding-top: 20px;
+    text-align: center;
+    background-color: white;
+}
+img{
+    max-width: 70%;
+    height: 80%;
+    display: block;
+    margin: auto;
+}
+#img-caption{
+    text-align: center;
+}
+ul{
+    text-align: left;
+}
+li{
+    margin-bottom: 20px;
+}
+span{
+    font-weight: 700;
+}
+#tribute-info{
+   padding: 0 30%;
+}
+#tribute-info p{
+    font-style: italic;
+}
+#last-span{
+    padding: 20px 0px 20px 0px;
+}
